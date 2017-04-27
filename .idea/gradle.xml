@@ -9,13 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ConditationVirable" />
             <option value="$PROJECT_DIR$/CustomCamera" />
             <option value="$PROJECT_DIR$/CustomVideo" />
-            <option value="$PROJECT_DIR$/HAHA" />
-            <option value="$PROJECT_DIR$/MutileTouch" />
-            <option value="$PROJECT_DIR$/Test" />
             <option value="$PROJECT_DIR$/ThreadDemo" />
-            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

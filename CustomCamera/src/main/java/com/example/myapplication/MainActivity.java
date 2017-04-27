@@ -66,13 +66,13 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        mSwitchBtn = (Button)findViewById(R.id.switch);
+        /*mSwitchBtn = (Button)findViewById(R.id.switch);
         mSwitchBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 switchCamera();
             }
-        });
+        });*/
 
     }
 

@@ -1,1 +1,1 @@
-include ':app', ':CustomCamera', ':MutileTouch', ':CustomVideo', ':Test', ':HAHA', ':ThreadDemo'
+include ':CustomCamera', ':CustomVideo', ':ThreadDemo', ':ConditationVirable'

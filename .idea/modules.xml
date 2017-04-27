@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConditationVirable/ConditationVirable.iml" filepath="$PROJECT_DIR$/ConditationVirable/ConditationVirable.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomCamera/CustomCamera.iml" filepath="$PROJECT_DIR$/CustomCamera/CustomCamera.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomVideo/CustomVideo.iml" filepath="$PROJECT_DIR$/CustomVideo/CustomVideo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HAHA/HAHA.iml" filepath="$PROJECT_DIR$/HAHA/HAHA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MutileTouch/MutileTouch.iml" filepath="$PROJECT_DIR$/MutileTouch/MutileTouch.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
