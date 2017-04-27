@@ -27,6 +27,7 @@ import java.util.List;
 import static android.provider.MediaStore.Files.FileColumns.MEDIA_TYPE_IMAGE;
 
 public class MainActivity extends AppCompatActivity {
+//panghua
     private static final String TAG = "MainActivity";
 
     private static final String PERMISSION_ACTION = "com.android.setting.ACTION_GET_PERMISSION_DETAILS";
